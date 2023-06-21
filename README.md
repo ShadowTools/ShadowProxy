@@ -1,6 +1,6 @@
 # ShadowProxy
 
-MinerProxy, 矿池代理, 加密代理, 完全免费, 无抽水, 支持任意币种与矿池, 支持SSL/TLS代理以及更高安全性的二次加密代理，支持Windows及Ubuntu系统
+MinerProxy, 矿池代理, 加密代理, 完全免费, 无抽水, 支持任意币种与矿池, 支持SSL/TLS代理及更安全的SSL/TLS+二次加密代理，支持Windows及Ubuntu系统
 
 <img width="1120" height="480" src="https://github.com/ShadowTools/ShadowProxy/blob/main/ShadowProxyWin.JPG?raw=true"/> 
 
