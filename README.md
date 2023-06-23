@@ -5,9 +5,9 @@ MinerProxy, 矿池代理, 加密代理, 完全免费, 无抽水, 支持任意币
 <img width="1120" height="480" src="https://github.com/ShadowTools/ShadowProxy/blob/main/ShadowProxyWin.JPG?raw=true"/> 
 
 #### 配套软件:
-* ShadowProxy: <a href="https://github.com/ShadowTools/ShadowProxy">https://github.com/ShadowTools/ShadowProxy</a>
-* ShadowMiner: <a href="https://github.com/ShadowTools/ShadowMiner">https://github.com/ShadowTools/ShadowMiner</a>
-* ShadowMonitor: <a href="https://github.com/ShadowTools/ShadowProxy">https://github.com/ShadowTools/ShadowMonitor</a>
+* 代理: <a href="https://github.com/ShadowTools/ShadowProxy">https://github.com/ShadowTools/ShadowProxy</a>
+* 矿工: <a href="https://github.com/ShadowTools/ShadowMiner">https://github.com/ShadowTools/ShadowMiner</a>
+* 群控: <a href="https://github.com/ShadowTools/ShadowProxy">https://github.com/ShadowTools/ShadowMonitor</a>
 
 ## 功能:
 * 支持Windows以及Ubuntu系统
