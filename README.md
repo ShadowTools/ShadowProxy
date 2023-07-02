@@ -95,7 +95,9 @@ options:
 |  -force FORCE | force generate new Cert file at start |
 |  -every EVERY | generate new Cert file every number of days |
 |  -limit LIMIT | limit number of connections, 0 means no limit |
-  
+
+
+* 联系我们: Telegram: https://t.me/+5yaCgLEEmmszZWY1 Mail: shadowtools8@gmail.com
 ----------------------------------------------------------------------------------------------
 
 ## 版本更新说明:
