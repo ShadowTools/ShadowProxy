@@ -1,6 +1,6 @@
 # ShadowProxy
 
-MinerProxy, ShadowMiner Proxy, 矿池代理, 加密代理, 完全免费, 无抽水, 支持任意币种与矿池, 支持SSL/TLS代理及更安全的SSL/TLS+二次加密代理，支持Windows及Ubuntu系统
+MinerProxy, ShadowMiner Proxy, 矿池代理, 加密代理, 免费, 无抽水, 支持任意币种与矿池, 支持SSL/TLS代理及更安全的SSL/TLS+二次加密代理，支持Windows及Ubuntu系统
 
 <img width="1120" height="480" src="https://github.com/ShadowTools/ShadowProxy/blob/main/ShadowProxyWin.JPG?raw=true"/> 
 
@@ -34,12 +34,12 @@ MinerProxy, ShadowMiner Proxy, 矿池代理, 加密代理, 完全免费, 无抽�
 
 
 ## 费率
-所有模式无抽水, 提供100%转发效率
+无抽水, 提供100%转发
 ### Note:
-判断是否抽水几种方法:
-1. 对比本地与矿池24小时份额, 查看是否有出入
-2. 监测软件是否有异常的TCP连接
-3. stratum协议不含币种信息, 不需要设置币种信息的软件一般无抽水
+判断是否抽水:
+1. 对比本地与矿池24小时份额
+2. 监测异常的TCP连接
+3. 不需设置币种信息一般无抽水
 
 
 ## 使用说明
@@ -99,15 +99,3 @@ options:
 
 * 联系我们: Telegram: https://t.me/+5yaCgLEEmmszZWY1 Mail: shadowtools8@gmail.com
 ----------------------------------------------------------------------------------------------
-
-## 版本更新说明:
-V2.0.0:
-  1. 重构
-  2. 优化用户体验
-
-V1.0.0:
-  1. 支持Windows与Ubuntu系统
-  2. 支持SSL/TLS代理
-  3. 支持SSL/TLS+二次加密代理
-  4. 支持证书周期更新
-  5. 支持负载控制
