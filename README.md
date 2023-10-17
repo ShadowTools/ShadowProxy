@@ -97,5 +97,5 @@ options:
 |  -limit LIMIT | limit number of connections, 0 means no limit |
 
 
-* 联系我们: Telegram: https://t.me/+5yaCgLEEmmszZWY1 Mail: shadowtools8@gmail.com
+* 联系我们: Mail: shadowtools8@gmail.com
 ----------------------------------------------------------------------------------------------
